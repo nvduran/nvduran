@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm a web developer located in Austin, TX.
+
+Current repos include 37 public and 3 private
 <!--
 **nvduran/nvduran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
