@@ -11,4 +11,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nvduran&show_icons=true&locale=en&layout=compact" alt="nvduran" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nvduran&show_icons=true&locale=en" alt="nvduran" /></p>
+
