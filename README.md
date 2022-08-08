@@ -11,6 +11,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nvduran&show_icons=true&locale=en&layout=compact" alt="nvduran" /></p>
 
-<p>Contact Email: nvduran@gmail.com</p>
+<p align="left">Contact Email: nvduran@gmail.com</p>
 
 
