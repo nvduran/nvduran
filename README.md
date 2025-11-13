@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nick Duran</h1>
-<h3 align="center">A web developer in Austin, TX</h3>
+<h3 align="center">In Austin, TX</h3>
 <h3 align="center">I develop <a href="https://iracingdata.com" target="_blank">iRacingData.com</a></h3>
 
 <h3 align="left">Connect with me:</h3>
